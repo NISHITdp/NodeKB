@@ -21,7 +21,7 @@
     "init": "^0.1.2",
     "mongoose": "^5.7.13",
     "nodemon": "^2.0.1",
-    "pug": "^2.0.4"
+    "pug": "^3.0.1"
   },
   "devDependencies": {}
 }
